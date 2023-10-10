@@ -1,0 +1,6 @@
+.vs
+bin/
+*.class
+CadeCompetion/obj
+CadeCompetionML.ConsoleApp/obj
+CadeCompetionML.Model/obj
