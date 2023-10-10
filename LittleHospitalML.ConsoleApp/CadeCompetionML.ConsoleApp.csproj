@@ -14,7 +14,7 @@
 	<PackageReference Include="SciSharp.TensorFlow.Redist" Version="1.14.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CadeCompetionML.Model\CadeCompetionML.Model.csproj" />
+    <ProjectReference Include="..\LittleHospital.Model\LittleHospital.Model.csproj" />
   </ItemGroup>
 
   <ItemGroup>

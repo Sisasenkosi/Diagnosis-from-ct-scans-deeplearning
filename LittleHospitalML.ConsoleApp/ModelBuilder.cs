@@ -12,7 +12,7 @@ namespace CadeCompetionML.ConsoleApp
 {
     public static class ModelBuilder
     {
-        private static string TRAIN_DATA_FILEPATH = @"C:\Users\sisasenkosi\AppData\Local\Temp\b1aa2d48-fa66-48c4-89b9-a6d56554d1cc.tsv";
+        private static string TRAIN_DATA_FILEPATH = @"filepath";
         private static string MODEL_FILE = ConsumeModel.MLNetModelPath;
 
         // Create MLContext to be shared across the model creation workflow objects 
